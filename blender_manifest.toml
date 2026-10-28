@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "ps2_icons"
+version = "1.0.0"
+name = "PS2 Icons"
+tagline = "Import and export PS2 memory card icons (.icn)"
+maintainer = "TayKlor"
+type = "add-on"
+tags = ["Import-Export"]
+blender_version_min = "4.5.0"
+license = ["SPDX:GPL-3.0-or-later"]
